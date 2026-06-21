@@ -208,8 +208,8 @@ About Me
 Aspiring Data Analyst with hands-on experience in SQL, PostgreSQL, Excel, and data analysis projects.
 
 Connect with Me
--**LinkedIn**:[Jay Kavitake] (https://www.linkedin.com/in/jay-kavitake-011a312b7/)
--**GitHub**: (https://github.com/jaykavitake)
+-**LinkedIn**:[Jay Kavitake](https://www.linkedin.com/in/jay-kavitake-011a312b7/).
+-**GitHub**: (https://github.com/jaykavitake).
 
 
 Thank you for your support, and I look forward to connecting with you!
