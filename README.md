@@ -203,8 +203,13 @@ GROUP BY shift
 ## Conclusion
 
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
+About Me
 
+Aspiring Data Analyst with hands-on experience in SQL, PostgreSQL, Excel, and data analysis projects.
 
-- **LinkedIn**: [Connect with me professionally]([(https://github.com/jaykavitake)])
+Connect with Me
+-**LinkedIn**:[Jay Kavitake] (https://www.linkedin.com/in/jay-kavitake-011a312b7/)
+-**GitHub**: (https://github.com/jaykavitake)
+
 
 Thank you for your support, and I look forward to connecting with you!
